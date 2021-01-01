@@ -1,0 +1,16 @@
+C:\Projects\AlgorithmsConsoleApp\bin\Debug\netcoreapp3.1\AlgorithmsConsoleApp.exe
+C:\Projects\AlgorithmsConsoleApp\bin\Debug\netcoreapp3.1\AlgorithmsConsoleApp.deps.json
+C:\Projects\AlgorithmsConsoleApp\bin\Debug\netcoreapp3.1\AlgorithmsConsoleApp.runtimeconfig.json
+C:\Projects\AlgorithmsConsoleApp\bin\Debug\netcoreapp3.1\AlgorithmsConsoleApp.runtimeconfig.dev.json
+C:\Projects\AlgorithmsConsoleApp\bin\Debug\netcoreapp3.1\AlgorithmsConsoleApp.dll
+C:\Projects\AlgorithmsConsoleApp\bin\Debug\netcoreapp3.1\AlgorithmsConsoleApp.pdb
+C:\Projects\AlgorithmsConsoleApp\bin\Debug\netcoreapp3.1\Algorithms.dll
+C:\Projects\AlgorithmsConsoleApp\bin\Debug\netcoreapp3.1\Algorithms.pdb
+C:\Projects\AlgorithmsConsoleApp\obj\Debug\netcoreapp3.1\AlgorithmsConsoleApp.csprojAssemblyReference.cache
+C:\Projects\AlgorithmsConsoleApp\obj\Debug\netcoreapp3.1\AlgorithmsConsoleApp.AssemblyInfoInputs.cache
+C:\Projects\AlgorithmsConsoleApp\obj\Debug\netcoreapp3.1\AlgorithmsConsoleApp.AssemblyInfo.cs
+C:\Projects\AlgorithmsConsoleApp\obj\Debug\netcoreapp3.1\AlgorithmsConsoleApp.csproj.CoreCompileInputs.cache
+C:\Projects\AlgorithmsConsoleApp\obj\Debug\netcoreapp3.1\AlgorithmsConsoleApp.csproj.CopyComplete
+C:\Projects\AlgorithmsConsoleApp\obj\Debug\netcoreapp3.1\AlgorithmsConsoleApp.dll
+C:\Projects\AlgorithmsConsoleApp\obj\Debug\netcoreapp3.1\AlgorithmsConsoleApp.pdb
+C:\Projects\AlgorithmsConsoleApp\obj\Debug\netcoreapp3.1\AlgorithmsConsoleApp.genruntimeconfig.cache
