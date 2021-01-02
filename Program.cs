@@ -9,7 +9,9 @@ namespace AlgorithmsConsoleApp
         {
             string[] letters = { "A", "B", "C", "D", "E" };
 
-            letters.DoFisherYatesShuffle();
+            //letters.DoFisherYatesShuffle();
+
+            letters.DoFisherYatesAlternativeShuffle();
 
             foreach (string letter in letters)
                 Console.Write(letter + " ");
