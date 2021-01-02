@@ -1,4 +1,5 @@
 ﻿using System;
+using Algorithms;
 
 namespace AlgorithmsConsoleApp
 {
@@ -6,7 +7,14 @@ namespace AlgorithmsConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string[] letters = { "A", "B", "C", "D", "E" };
+
+            letters.DoFisherYatesShuffle();
+
+            foreach (string letter in letters)
+                Console.Write(letter + " ");
+
+            Console.ReadLine();
         }
     }
 }
