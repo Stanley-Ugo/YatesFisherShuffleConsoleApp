@@ -7,6 +7,7 @@ namespace AlgorithmsConsoleApp
     {
         static void Main(string[] args)
         {
+            //static array input
             string[] letters = { "A", "B", "C", "D", "E" };
 
             //letters.DoFisherYatesShuffle();
